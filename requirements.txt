@@ -3,3 +3,4 @@ plotly
 numpy
 streamlit
 openpyxl
+forex_python
